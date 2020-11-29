@@ -1,0 +1,84 @@
+Viktor Mendoza 
+Lawn Mowing 
+5 
+500
+Maddox Couch
+Lawn Mowing 
+5 
+500
+Douglas Tang 
+Dog Grooming 
+3 
+600
+Cadi Calvert 
+Dog Grooming 
+3 
+600
+Jade Nielsen 
+Guided Tour 
+2 
+800
+Fiza Findlay 
+Guided Tour 
+3 
+1200
+Kalem Lindsey 
+Guitar Lesson 
+4 
+2000
+Olivia-Mae Kearns
+Guitar Lesson 
+3 
+1500
+Avaya Owen 
+Piano Lesson 
+4 
+2400
+Raihan Shaffer 
+Piano Lesson 
+2 
+1200
+Fiza Findlay 
+Piano Lesson 
+2 
+1200
+Kalem Lindsey 
+Piano Lesson 
+1 
+600
+Olivia-Mae Kearns 
+Piano Lesson 
+3 
+1800
+Avaya Owen 
+Surf Lesson 
+6 
+4200
+Raihan Shaffer 
+Surf Lesson 
+2 
+1400
+Viktor Mendoza 
+Webpage Design 
+4 
+4000
+Maddox Couch 
+Webpage Design 
+4 
+4000
+Douglas Tang 
+Webpage Design 
+3 
+3000
+Cadi Calvert 
+Application Development 
+12 
+18000
+Jade Nielsen 
+Application Development 
+6 
+9000
+Fiza Findlay 
+Application Development 
+6 
+9000

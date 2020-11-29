@@ -1,0 +1,32 @@
+LawnMowing 
+Mow Clients Lawn once per week
+100
+10
+Dog Grooming
+groom clients dog once per week
+200
+6
+guided tours 
+Give client a guided tour through specified city
+400
+5
+Guitar lessons 
+Give client guitar lessons twice a week
+500
+7
+Piano lessons 
+Give client piano lessons twice per week
+600
+12
+Surf lessons 
+Give client surf lessons once a week
+700 
+8
+Webpage design 
+Work with clients to help develop a webpage for their buissness needs
+1000
+11
+Application Development 
+Work with a client to help develop an application for personal or buissness use
+1500
+24
